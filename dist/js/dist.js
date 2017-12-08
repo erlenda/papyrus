@@ -13,7 +13,7 @@ var barcode = {
         readers : ["ean_reader"]
       }
     }, function(err) {    
-      if (err) {
+      if (err) {        
         console.log(err);
         return
       }

@@ -1,3 +1,7 @@
 #result_strip h1 {
-  visibility: hidden; // initially hidden
+  // visibility: hidden; // initially hidden
+}
+
+* {
+    font-family: 'Spectral', serif;
 }
